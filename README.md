@@ -1,16 +1,16 @@
 /*Solution to Code Challenge*/
 
-Description : The solution for problem statements 1 & 2 are provided using nodejs as the tool
+Description : The solution for problem statements 1 & 2 have been developed using nodejs
 
-The input.csv has been converted to inputData.json for easier processing of the datasets
+The input.csv has been converted to inputData.json 
 
 server1.js will contain the code for problem statement 1 
 
-server2.js will contain the code for problem statement 1 
+server2.js will contain the code for problem statement 2
 
 General steps to follow for execution :- 
 
-1) Do an npm install
+1) Run "npm install" to install all the packages
  
 Once that is done run the below command to execute PROBLEM STATEMENT 1:
 
